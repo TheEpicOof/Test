@@ -1,23 +1,26 @@
-# Compiled class file
-*.class
+import java.util.*;
+class Main {
+  public static void main(String[] args) {
+    Scanner scan = new Scanner (System.in);
+    System.out.println ("meth i mean math time");
+    var suma = 0;
+    int res = 0;
+    for (var contador =1; contador <=contador++;){
+      System.out.println ("write number bitch");
+      int res = scan NextLine();
+      suma =res+suma
+    }
+    if (suma>=50) {
+        for (var contador2 = 1; contador2 <=5 contador2++){
+          System.out.println("wow poggers")
+        }
 
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+      }
+      if (suma <=50){
+        for (var contador3 =1; contador<=10 contador3++){
+          System.out.println ("answer is "+ contador);
+          System.out.println ("i think")
+        }
+      }
+  }
+}  
